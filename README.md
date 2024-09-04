@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👀 About Me:
 🔭 I’m currently working on Trader<br>👯 I’m looking to collaborate on LieDetect<br>🌱 I’m currently learning mySQL<br>
 
 
